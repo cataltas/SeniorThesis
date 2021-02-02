@@ -1,1 +1,2 @@
-# SeniorThesis
+# Senior Thesis (Summer 2018-Spring 2019)
+This repository includes the senior thesis of Camille Taltas, supervised by Professor David Galvin, in Senior Thesis Taltas.pdf. This paper includes three proofs that the Glauber Dynamics markov chain mixes rapidly (or in polynomial time) to its stationary distribution. Each proof provides a better lower bound for the number of colors needed in terms of the maximum degree of the graph. 
